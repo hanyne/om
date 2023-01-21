@@ -6,7 +6,7 @@ import { useUserAuth } from "../context/userAuthContext";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
-const Login = () => {
+const Register = () => {
 
   const [emailr, setEmailr] = useState("");
   const [passwordr, setPasswordr] = useState("");
@@ -76,4 +76,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default Register;

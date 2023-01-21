@@ -3,6 +3,8 @@ import { UserAuthContextProvider } from "./context/userAuthContext";
 
 import Home from "./components/Home";
 import Login from "./components/Login";
+import Register from "./components/Register";
+
 import Ajout from "./pages/Ajout";
 import Consulter from "./pages/Consulter";
 import Message from "./pages/Message";
@@ -14,7 +16,6 @@ import 'react-toastify/dist/ReactToastify.css';
 import "./App.css";
 import { ToastContainer } from "react-toastify";
 import Admins from "./pages/Admins";
-import Register from "./components/Register";
 
 function App() {
   return (

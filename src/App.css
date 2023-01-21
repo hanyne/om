@@ -146,7 +146,7 @@
     color: #99b19c; }
 
 body{
-  background-image: url("https://media.home-design.schmidt/-/media/bynder/schmidt/2021/10/14/12/07/sch_cuisine_tavern_twist_a1_v3/16x9-sch_cuisine_tavern_twist_a1_v3.ashx");
+  background-image: url("https://img.freepik.com/photos-gratuite/jeune-future-mere-femme-enceinte-souriante-posant-gros-ventre-au-troisieme-trimestre-grossesse-recherche-bebe-attendant-heureux-pointant-vers-banniere-du-logo-publicite_1258-123168.jpg?w=1380&t=st=1674127961~exp=1674128561~hmac=b89e56246e264b397db8bc0037098bf742e471d945d7d8b49fe4994a854e63a9");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -8369,10 +8369,12 @@ pre {
   .heading-section {
     font-size: 28px;
     color: #000; }
-
+/* home */
 
     body {
-      background-image:url('https://cf.ltkcdn.net/interiordesign/images/orig/273067-1600x1066-basics-contemporary-kitchen-design.jpg');
+      background-image:url('https://img.freepik.com/photos-gratuite/femme-enceinte-mari_53876-146140.jpg?w=1060&t=st=1674330259~exp=1674330859~hmac=9986b0babe51b7445b5072cea27e29d68a28b97cb25714ea4aa7bc2603cf2ef5');
+      background-repeat: no-repeat;
+  background-size: cover;
       width: 100%;
       height: 100vh;
     }
